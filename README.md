@@ -16,6 +16,10 @@ A simple, real-time client-server desktop chat application built using **Java So
 - **GUI:** Java Swing, AWT  
 - **Networking:** Socket Programming (TCP)
 
+- - ## 📸 Screenshots
+
+📁 [View All Screenshots](https://github.com/Neha-238/ChatApp/tree/main/Screenshot)
+
 ## 🚀 How to Run
 
 > Make sure Java is installed and added to your system's PATH.
